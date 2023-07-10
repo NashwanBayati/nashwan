@@ -1,0 +1,6 @@
+FTP-Serverbereich, Zugang für Download
+
+Lesezugang:
+Server: ftp.viona-students.com
+Benutzer: us-it-readonly
+Kennwort: 26Teil05
